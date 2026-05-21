@@ -79,7 +79,7 @@ export default function Intro() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.3 }}
         >
-          A love story crafted just for
+          A story crafted just for
         </motion.p>
 
         {/* Her Name — the hero centrepiece */}
